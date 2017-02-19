@@ -1,7 +1,6 @@
 # Site settings
 title: Gabriel Robledo
-description: 'Chief Technology Officer'
-brand: 'Web, Mobile, CMS, Design & Development'
+description: 'Web, Mobile, CMS, Design & Development'
 url: 'http://robledo.me'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
